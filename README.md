@@ -1,24 +1,57 @@
+
 # Python Intro Homework Exercises
 
-This repository contains my first Python homework assignments and coding experiments.  
-Each script demonstrates fundamental programming concepts including printing, arithmetic operators, strings vs. integers, error handling, and working with dates and locations.
+This repository contains my first Python homework assignments and coding experiments in Python.
+Each script demonstrates basic programming concepts such as printing, arithmetic operators, error handling, working with strings and numbers, and simple calculations.
+
+---
 
 ## Contents
+
+- [Assignment 1: Python Basics & Error Handling](#assignment-1-python-basics--error-handling)
+- [Assignment 2: Circle Circumference & Discount Calculator](#assignment-2-circle-circumference--discount-calculator)
+- [Screenshots](#screenshots)
+
+---
+
+## Assignment 1: Python Basics & Error Handling
+
+**Topics covered:**
 - Printing names with quotations and parentheses
-- Using multiplication (*) and power (**) operators
-- Avoiding common syntax errors (quotes, leading zeros)
+- Using multiplication (`*`) and power (`**`), math operations
+- Common syntax errors (quotes, parentheses, leading zeros)
 - Difference between numbers and strings
-- Location and date print examples
-- Simple math operations
+- Printing location, date, and temperature
 
- *Full source code: [assignment1.py](assignment1.py)*
+**Full source code:** [assignment1.py](assignment1.py)
 
-All code is written and tested by myself as part of my learning journey.  
-Feel free to review, ask questions, or provide feedback!
+---
+
+## Assignment 2: Circle Circumference & Discount Calculator
+
+**Topics covered:**
+- Calculating the circumference of a circle from user input (`C = 2 * π * r`)
+- Calculating sale price and discounts for:
+  - Single items (no discount)
+  - Combo packs (two items, 10% discount each)
+  - Gift packs (three items, 25% discount each)
+
+**Circle Calculation examples:**
+- Input: 5 → Output: circumference = 31.4159
+- Input: 15 → Output: circumference = 94.2478
+- Input: 100 → Output: circumference = 628.3185
+
+**Discount Calculation examples:**
+- Single item: cost = 200, discount = 0% → Sale price = 200.0
+- Combo pack: items = 200 & 400, discounts = 10% → Sale price = 540.0
+- Gift pack: items = 200, 400, 600, discounts = 25% → Sale price = 900.0
+
+**Full source code:** [assignment2.py](assignment2.py)
 
 ---
 
 ## Screenshots
+**Assignment 1**
 
 ### Part A — Errors in Python IDLE
 ![Errors Screenshot](screenshots/PartA—ErrorsinPythonIDLE.png)
@@ -42,29 +75,7 @@ Part 2 — Printing location, date range, and temperature in Python IDLE. Shows 
 
 ---
 
----
-
-## Assignment 2 — Circle Circumference & Discount Calculator
-
-This assignment demonstrates:
-- Calculating the circumference of a circle from user input using the formula \(C = 2\pi r\).
-- Calculating sale prices and discounts for individual items, combo packs (two items, 10% off each) and gift packs (three items, 25% off each).
-
-### Circle Calculation
-
-- Input: 5 → Output: circumference is 31.4159
-- Input: 15 → Output: circumference is 94.2478
-- Input: 100 → Output: circumference is 628.3185
-
-### Discount Calculator
-
-- **Single item:** cost=200, discount=0% → Sale price: 200.0
-- **Combo pack:** items=200 & 400, discounts=10% each → Sale price: 540.0
-- **Gift pack:** items=200, 400, 600, discounts=25% each → Sale price: 900.0
-
-*Full source code: [assignment2.py](assignment2.py)*
-
-**Screenshots:**
+**Assignment 2**
 
 ![Circle Output](screenshots/secondassignmentpart1.png)  
 *Circumference outcomes for several radii.*
@@ -77,5 +88,15 @@ This assignment demonstrates:
 ---
 
 
+## Author
+
 Hamida Nazari
+
+---
+
+## Feedback
+
+All code written and tested by myself as part of my Python learning journey.  
+Feel free to review, ask questions, or provide feedback!
+
 
