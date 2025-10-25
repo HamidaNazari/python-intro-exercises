@@ -23,11 +23,11 @@ Feel free to review, ask questions, or provide feedback!
 Part A — Demonstrating common Python errors using print statements in IDLE. Shows SyntaxError for missing quotes, missing parentheses, and using names without quotes. These errors help new learners understand how to debug code.
 
 ### Part B — Arithmetic Operations
-![Python Arithmetic](screenshots/partB_arithmetic.jpg)  
+![Python Arithmetic](screenshots/partB_arithmetic.png)  
 Part B — Python arithmetic operations. Shows correct outputs for multiplication (*) and power (**) operators in Python.
 
 ### Part C — Integer and String Type
-![Integer vs String](screenshots/partC_type.jpg)  
+![Integer vs String](screenshots/partC_type.png)  
 Part C — Demonstrating the difference between integer and string in Python using the type() function in Command Line. Shows how Python distinguishes between int and str data types.
 
 ### Part D — Printing Location, Date, Temperature
