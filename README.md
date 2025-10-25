@@ -35,7 +35,7 @@ Part C — Leading zero error in Python. Shows SyntaxError for using leading zer
 Part D — Demonstrating the difference between integer and string in Python using the type() function in Command Line. Shows how Python distinguishes between int and str data types.
 
 ### Part 2 — Printing Location, Date, Temperature
-![Location, Date, Temperature](screenshots/part-2.jpg)  
+![Location, Date, Temperature](screenshots/part-2.png)  
 Part 2 — Printing location, date range, and temperature in Python IDLE. Shows correct use of the print() function for displaying text information such as city, country, start/end dates, and temperature values.
 
 ---
