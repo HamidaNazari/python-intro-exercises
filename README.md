@@ -62,12 +62,14 @@ This assignment demonstrates:
 
 *Full source code: [assignment2.py](assignment2.py)*
 
-**Sample Screenshots:**
+**Screenshots:**
 
 ![Circle Output](screenshots/secondassignmentpart1.png)  
 *Circumference outcomes for several radii.*
 
-![Discount Output](screenshots/secondassignmentpart2.png)  
+![Discount Output](screenshots/secondassignmentpart2.a.png)
+![Discount Output](screenshots/secondassignmentpart2.b.png)
+![Discount Output](screenshots/secondassignmentpart2.c.png)
 *Sale price calculations for single, combo, and gift packs.*
 
 ---
