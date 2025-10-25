@@ -27,7 +27,7 @@ Part A — Demonstrating common Python errors using print statements in IDLE. Sh
 Part B — Python arithmetic operations. Shows correct outputs for multiplication (*) and power (**) operators in Python.
 
 ### Part C — Leading Zero Error
-![Leading Zero Error](screenshots/additional_leading_zero.jpg)  
+![Leading Zero Error](screenshots/partc_leading_zero.png)  
 Part C — Leading zero error in Python. Shows SyntaxError for using leading zeros in integer literals, helping to understand numeric syntax rules.
 
 ### Part D — Integer and String Type
