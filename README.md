@@ -26,17 +26,17 @@ Part A — Demonstrating common Python errors using print statements in IDLE. Sh
 ![Python Arithmetic](screenshots/partB_arithmetic.png)  
 Part B — Python arithmetic operations. Shows correct outputs for multiplication (*) and power (**) operators in Python.
 
-### Part C — Integer and String Type
-![Integer vs String](screenshots/partC_type.png)  
-Part C — Demonstrating the difference between integer and string in Python using the type() function in Command Line. Shows how Python distinguishes between int and str data types.
-
-### Part D — Printing Location, Date, Temperature
-![Location, Date, Temperature](screenshots/part-2.jpg)  
-Part D — Printing location, date range, and temperature in Python IDLE. Shows correct use of the print() function for displaying text information such as city, country, start/end dates, and temperature values.
-
-### Additional — Leading Zero Error
+### Part C — Leading Zero Error
 ![Leading Zero Error](screenshots/additional_leading_zero.jpg)  
-Additional — Leading zero error in Python. Shows SyntaxError for using leading zeros in integer literals, helping to understand numeric syntax rules.
+Part C — Leading zero error in Python. Shows SyntaxError for using leading zeros in integer literals, helping to understand numeric syntax rules.
+
+### Part D — Integer and String Type
+![Integer vs String](screenshots/partd_type.png)  
+Part D — Demonstrating the difference between integer and string in Python using the type() function in Command Line. Shows how Python distinguishes between int and str data types.
+
+### Part 2 — Printing Location, Date, Temperature
+![Location, Date, Temperature](screenshots/part-2.jpg)  
+Part 2 — Printing location, date range, and temperature in Python IDLE. Shows correct use of the print() function for displaying text information such as city, country, start/end dates, and temperature values.
 
 ---
 
