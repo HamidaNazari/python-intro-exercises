@@ -64,10 +64,10 @@ This assignment demonstrates:
 
 **Sample Screenshots:**
 
-![Circle Output](screenshots/circle_output.jpg)  
+![Circle Output](screenshots/secondassignmentpart1.png)  
 *Circumference outcomes for several radii.*
 
-![Discount Output](screenshots/discount_output.jpg)  
+![Discount Output](screenshots/secondassignmentpart2.png)  
 *Sale price calculations for single, combo, and gift packs.*
 
 ---
