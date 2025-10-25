@@ -19,7 +19,7 @@ Feel free to review, ask questions, or provide feedback!
 ## Screenshots
 
 ### Part A — Errors in Python IDLE
-![Errors Screenshot](screenshots/partA_Errors in Python IDLE.jpg)
+![Errors Screenshot](screenshots/PartA—ErrorsinPythonIDLE.png)
 Part A — Demonstrating common Python errors using print statements in IDLE. Shows SyntaxError for missing quotes, missing parentheses, and using names without quotes. These errors help new learners understand how to debug code.
 
 ### Part B — Arithmetic Operations
