@@ -40,5 +40,38 @@ Part 2 — Printing location, date range, and temperature in Python IDLE. Shows 
 
 ---
 
+---
+
+## Assignment 2 — Circle Circumference & Discount Calculator
+
+This assignment demonstrates:
+- Calculating the circumference of a circle from user input using the formula \(C = 2\pi r\).
+- Calculating sale prices and discounts for individual items, combo packs (two items, 10% off each) and gift packs (three items, 25% off each).
+
+### Circle Calculation
+
+- Input: 5 → Output: circumference is 31.4159
+- Input: 15 → Output: circumference is 94.2478
+- Input: 100 → Output: circumference is 628.3185
+
+### Discount Calculator
+
+- **Single item:** cost=200, discount=0% → Sale price: 200.0
+- **Combo pack:** items=200 & 400, discounts=10% each → Sale price: 540.0
+- **Gift pack:** items=200, 400, 600, discounts=25% each → Sale price: 900.0
+
+*Full source code: [assignment2.py](assignment2.py)*
+
+**Sample Screenshots:**
+
+![Circle Output](screenshots/circle_output.jpg)  
+*Circumference outcomes for several radii.*
+
+![Discount Output](screenshots/discount_output.jpg)  
+*Sale price calculations for single, combo, and gift packs.*
+
+---
+
+
 Hamida Nazari
 
