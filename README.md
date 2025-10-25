@@ -11,6 +11,8 @@ Each script demonstrates fundamental programming concepts including printing, ar
 - Location and date print examples
 - Simple math operations
 
+ *Full source code: [assignment1.py](assignment1.py)*
+
 All code is written and tested by myself as part of my learning journey.  
 Feel free to review, ask questions, or provide feedback!
 
