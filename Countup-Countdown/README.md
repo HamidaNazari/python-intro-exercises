@@ -56,6 +56,7 @@ Countdown:
 Blastoff!
 
 ## Learning Points
+
 > Understanding recursion in Python.
 
 > Using conditional statements (if-else).
@@ -65,6 +66,7 @@ Blastoff!
 > Writing clear and reusable functions.
 
 ## Screenshots
+
 Here is examples of the program output:
 
 ![Terminal Output](screenshots/terminal_output.png)
@@ -72,6 +74,7 @@ Here is examples of the program output:
 
 
 ## Feedback
+
 All code written and tested by myself as part of my Python learning journey.
 Feel free to review, ask questions, or provide feedback!
 
