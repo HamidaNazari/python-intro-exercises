@@ -35,6 +35,8 @@ A negative number for countup.
 
 A positive number for countdown.
 
+---
+
 ## Example Output
 
 Enter a negative number to start countup: -3
@@ -55,6 +57,8 @@ Countdown:
 1
 Blastoff!
 
+---
+
 ## Learning Points
 
 > Understanding recursion in Python.
@@ -65,13 +69,15 @@ Blastoff!
 
 > Writing clear and reusable functions.
 
+---
+
 ## Screenshots
 
 Here is examples of the program output:
 
 ![Terminal Output](screenshots/terminal_output.png)
 
-
+---
 
 ## Feedback
 
