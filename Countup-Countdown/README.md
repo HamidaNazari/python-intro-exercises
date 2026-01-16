@@ -53,7 +53,7 @@ Displays "Blastoff!" when zero is reached
 
 ---
 
-**Example usage:**
+**##** **Example usage:**
 
 def countdown(n):
     if n == 0:
