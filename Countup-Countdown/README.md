@@ -29,5 +29,49 @@ This project demonstrates **recursion** using two simple Python functions:
 
 ```bash
 python countup_countdown.py
+Enter the starting numbers as prompted:
 
+A negative number for countup.
+
+A positive number for countdown.
+
+**Example Output**
+
+Enter a negative number to start countup: -3
+
+Countup:
+-3
+-2
+-1
+Blastoff!
+
+Enter a positive number to start countdown: 5
+
+Countdown:
+5
+4
+3
+2
+1
+Blastoff!
+
+**Learning Points**
+> Understanding recursion in Python.
+
+> Using conditional statements (if-else).
+
+> Handling user input.
+
+> Writing clear and reusable functions.
+
+**Screenshots**
+Here is examples of the program output:
+
+![Terminal Output](screenshots/terminal_output.png)
+
+
+
+**Feedback**
+All code written and tested by myself as part of my Python learning journey.
+Feel free to review, ask questions, or provide feedback!
 
