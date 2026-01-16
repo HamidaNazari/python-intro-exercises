@@ -34,12 +34,16 @@ countup(-3)
 Expected output:
 
 diff
-Copy code
 -3
 -2
 -1
 Blastoff!
-Countdown Function
+
+---
+
+
+**Countdown Function**
+
 The Countdown function:
 
 Recursively counts down from a positive number to 0
@@ -48,10 +52,10 @@ Prints each number along the way
 
 Displays "Blastoff!" when zero is reached
 
-Example usage:
+---
 
-python
-Copy code
+**Example usage:**
+
 def countdown(n):
     if n == 0:
         print("Blastoff!")
@@ -62,7 +66,6 @@ def countdown(n):
 countdown(5)
 Expected output:
 
-Copy code
 5
 4
 3
@@ -70,15 +73,16 @@ Copy code
 1
 Blastoff!
 
-How to Run
+---
+
+**How to Run**
+
 Clone the repository or download the code
 
 Open a terminal and navigate to the folder containing countup_countdown.py
 
 Run the script:
 
-bash
-Copy code
 python countup_countdown.py
 Enter the starting numbers as prompted:
 
@@ -86,9 +90,10 @@ A negative number for countup
 
 A positive number for countdown
 
-Example Output
-vbnet
-Copy code
+---
+
+**Example Output**
+
 Enter a negative number to start countup: -3
 
 Countup:
@@ -106,7 +111,12 @@ Countdown:
 2
 1
 Blastoff!
-Learning Points
+
+---
+
+
+**Learning Points**
+
 Understanding recursion in Python
 
 Using conditional statements (if-else)
@@ -115,11 +125,16 @@ Handling user input
 
 Writing clear and reusable functions
 
-Screenshots
+---
+
+**Screenshots**
 Here is an example of the program output:
 
 
-Feedback
+---
+
+
+**Feedback**
 All code written and tested by myself as part of my Python learning journey.
 Feel free to review, ask questions, or provide feedback!
 
