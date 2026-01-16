@@ -37,7 +37,9 @@ A positive number for countdown.
 
 ---
 
+
 ## Example Output
+
 
 Enter a negative number to start countup: -3
 
@@ -59,7 +61,9 @@ Blastoff!
 
 ---
 
+
 ## Learning Points
+
 
 > Understanding recursion in Python.
 
@@ -71,7 +75,9 @@ Blastoff!
 
 ---
 
+
 ## Screenshots
+
 
 Here is examples of the program output:
 
@@ -79,7 +85,9 @@ Here is examples of the program output:
 
 ---
 
+
 ## Feedback
+
 
 All code written and tested by myself as part of my Python learning journey.
 Feel free to review, ask questions, or provide feedback!
