@@ -7,40 +7,88 @@
 
 ## Overview
 
-This project demonstrates **recursion** using two simple Python functions:
-
-1. **Countup**  
-   - Recursively counts up from a negative number to 0.  
-   - Prints each number along the way.  
-   - Displays `"Blastoff!"` when zero is reached.
-
-2. **Countdown**  
-   - Recursively counts down from a positive number to 0.  
-   - Prints each number along the way.  
-   - Displays `"Blastoff!"` when zero is reached.
+This project demonstrates **recursion** using two simple Python functions in Python 3.  
+The program shows how recursion can be used to **count up from a negative number** or **count down from a positive number** to zero.
 
 ---
 
-## How to Run
+## Countup Function
 
-1. Clone the repository or download the code.  
-2. Open a terminal and navigate to the folder containing `countup_countdown.py`.  
-3. Run the script:
+The **Countup** function:
 
-```bash
+- Recursively counts up from a negative number to 0  
+- Prints each number along the way  
+- Displays `"Blastoff!"` when zero is reached
+
+**Example usage:**
+
+```python
+def countup(n):
+    if n == 0:
+        print("Blastoff!")
+    else:
+        print(n)
+        countup(n + 1)
+
+countup(-3)
+Expected output:
+
+diff
+Copy code
+-3
+-2
+-1
+Blastoff!
+Countdown Function
+The Countdown function:
+
+Recursively counts down from a positive number to 0
+
+Prints each number along the way
+
+Displays "Blastoff!" when zero is reached
+
+Example usage:
+
+python
+Copy code
+def countdown(n):
+    if n == 0:
+        print("Blastoff!")
+    else:
+        print(n)
+        countdown(n - 1)
+
+countdown(5)
+Expected output:
+
+Copy code
+5
+4
+3
+2
+1
+Blastoff!
+
+How to Run
+Clone the repository or download the code
+
+Open a terminal and navigate to the folder containing countup_countdown.py
+
+Run the script:
+
+bash
+Copy code
 python countup_countdown.py
 Enter the starting numbers as prompted:
 
-A negative number for countup.
+A negative number for countup
 
-A positive number for countdown.
+A positive number for countdown
 
----
-
-
-## Example Output
-
-
+Example Output
+vbnet
+Copy code
 Enter a negative number to start countup: -3
 
 Countup:
@@ -58,37 +106,20 @@ Countdown:
 2
 1
 Blastoff!
+Learning Points
+Understanding recursion in Python
 
----
+Using conditional statements (if-else)
 
+Handling user input
 
-## Learning Points
+Writing clear and reusable functions
 
-
-> Understanding recursion in Python.
-
-> Using conditional statements (if-else).
-
-> Handling user input.
-
-> Writing clear and reusable functions.
-
----
+Screenshots
+Here is an example of the program output:
 
 
-## Screenshots
-
-
-Here is examples of the program output:
-
-![Terminal Output](screenshots/terminal_output.png)
-
----
-
-
-## Feedback
-
-
+Feedback
 All code written and tested by myself as part of my Python learning journey.
 Feel free to review, ask questions, or provide feedback!
 
