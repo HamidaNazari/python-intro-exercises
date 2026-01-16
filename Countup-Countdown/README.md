@@ -41,7 +41,6 @@ Blastoff!
 
 ---
 
-
 **Countdown Function**
 
 The Countdown function:
