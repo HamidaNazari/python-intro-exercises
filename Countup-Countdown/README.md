@@ -74,20 +74,13 @@ Blastoff!
 
 ---
 
-**How to Run**
+How to Run
 
-Clone the repository or download the code
+Clone the repository or download the code.
 
-Open a terminal and navigate to the folder containing countup_countdown.py
+Open a terminal and navigate to the folder containing countup_countdown.py.
 
 Run the script:
-
-python countup_countdown.py
-Enter the starting numbers as prompted:
-
-A negative number for countup
-
-A positive number for countdown
 
 ---
 
@@ -114,26 +107,24 @@ Blastoff!
 ---
 
 
-**Learning Points**
+## Learning Points
 
-Understanding recursion in Python
-
-Using conditional statements (if-else)
-
-Handling user input
-
-Writing clear and reusable functions
+- Understanding recursion in Python
+- Using conditional statements (if-else)
+- Handling user input
+- Writing clear and reusable functions
 
 ---
 
-**Screenshots**
-Here is an example of the program output:
+## Screenshots
 
+Here is an example of the program output:  
+*(Add screenshot images here if available)*
 
 ---
 
+## Feedback
 
-**Feedback**
-All code written and tested by myself as part of my Python learning journey.
+All code written and tested by myself as part of my Python learning journey.  
 Feel free to review, ask questions, or provide feedback!
 
